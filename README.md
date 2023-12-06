@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @toddgr
 - 👀 I’m interested in computer graphics
-- 🌱 I’m currently pursuing my Bachelors in computer science (grad June 2023) and Masters (grad 2024), with an application in simulation and game programming
+- 🌱 I’m currently pursuing a Masters in Computer Science, with an application in computer graphics. I recently graduated with my Bachelors in Computer Science as well!
 - 💞️ Check out my YouTube! https://youtube.com/@graceytodd5360
+- 🎨 Want to see my full portfolio? Visit my website! https://gracetodd.dev
 - 📫 How to reach me grace.miriam.todd@gmail.com
 
 <!---
